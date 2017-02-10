@@ -1,7 +1,7 @@
 {
   "name": "capitains-sparrow.selector",
   "description": "jQuery selector plugin for CTS repositories",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "CITE",
     "CTS",
@@ -40,7 +40,7 @@
   },
   "contributors": [
     {
-      "name": "Thibault Clérice",
+      "name": "Thibault Clerice",
       "email": "",
       "web": "http://github.com/PonteIneptique"
     },
@@ -52,7 +52,7 @@
   ],
   "maintainers": [
     {
-      "name": "Thibault Clérice",
+      "name": "Thibault Clerice",
       "email": "",
       "web": "http://github.com/PonteIneptique"
     },

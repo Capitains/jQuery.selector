@@ -1,9 +1,9 @@
 {
   "name": "capitains-sparrow.selector",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/Capitains/jQuery.selector",
   "authors": [
-    "Thibault Clérice <leponteineptique@gmail.com>"
+    "Thibault Clerice <leponteineptique@gmail.com>"
   ],
   "description": "CTS API abstractions and jQuery plugin",
   "main": "dist/cts.jquery.selector.min.js",
